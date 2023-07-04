@@ -31,7 +31,7 @@ if __name__ == '__main__':
     print("\n")  
     print("caculate time is",(end_time-start_time))  
 
-
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/1CFW4%40HO%24IG3YVXCCC7X3FT.png)
 ### 运行结果测试：  
 Bit长度是： 20  
 sum_time = 1.2739466278159378  
