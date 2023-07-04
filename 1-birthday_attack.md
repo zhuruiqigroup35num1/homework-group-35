@@ -12,3 +12,4 @@ Bit长度是： 20
 sum_time = 1.2739466278159378  
 Bit长度为哈希值长度，也就是其空间大小为2^20  
 其中sum_time为总时长  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/GBDE23ZDS~~IK4ZB%7BYJBULM.png)
