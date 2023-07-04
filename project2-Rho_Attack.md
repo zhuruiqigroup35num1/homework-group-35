@@ -9,5 +9,5 @@ Rho算法的关键在于探测循环。通过设置快慢指针方法，即慢�
 如果能通过可接受的迭代次数寻找到一个环路，也就是碰撞达成，我们就说对其Rho攻击成功  
 
 # 核心代码实现：  
-！【Image_test】(https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/JDC%5B%605%60_%25~%24OTORL3O3XIR4.png)  
+！[Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/JDC%5B%605%60_%25~%24OTORL3O3XIR4.png)  
 
