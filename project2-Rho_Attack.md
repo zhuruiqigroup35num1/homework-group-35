@@ -16,6 +16,6 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 编译器：Visual Studio2022  
 
 # 核心代码实现：  
-![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/0VBBOE5~HEB2PCL%5B13PNGX.png)
+![Image_test](image/0VBBOE5~)HEB2PCL[13PNGX.png)
 # 运行示例：  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/5R5CIU%2470YDGL%60CB499SCZB.png)
