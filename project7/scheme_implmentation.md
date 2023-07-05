@@ -12,6 +12,6 @@ Hyperefficient Credential-Based Range Proofs的实现方式主要基于以下技
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project7_2.png)  
 
 # 注：  
-本问题没有完全完成，只能给出部分尝试写出的代码：  
-利用种子生成哈希的部分可能的过程：  
+## 本问题没有完全完成，只能给出部分尝试写出的代码：  
+## 利用种子生成哈希的部分可能的过程：  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project7_1.png)  
