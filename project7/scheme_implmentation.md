@@ -9,9 +9,9 @@ Hyperefficient Credential-Based Range Proofs的实现方式主要基于以下技
 1.零知识证明技术：这是密码学中的一种技术，它可以在不泄露任何有关证明的信息的前提下，证明某个陈述是正确的。  
 2.双线性配对技术：这是一种密码学技术，它将两个群之间的乘积映射到另一个群中，并且满足乘法和加法的性质，可以用于实现数字范围证明。  
 3.承诺方案技术：这是一种密码学技术，可以将数字“承诺”到未来，并且只能在未来的某个时刻才能揭示数字的真实值，用于实现数字范围证明中的凭证生成。  
-![Image_test]()
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project7_2.png)  
 
 # 注：  
 本问题没有完全完成，只能给出部分尝试写出的代码：  
-利用种子生成哈希的部分过程：  
+利用种子生成哈希的部分可能的过程：  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project7_1.png)  
