@@ -13,7 +13,7 @@ Range Proofs:
 6.将证明信息提供给验证者（可能是一个加密货币网络中的节点），验证者可以使用哈希函数和随机数r来重构哈希值h，并检查所提供的证明信息是否正确。  
 本协议引入以Alice向Bob证明其age>=21为引入例子  
 
-
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project6_2.png)  
 # 运行环境：  
 硬件环境：  
 处理器：AMD Ryzen 7 5800H with Radeon Graphics   
@@ -21,3 +21,8 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 软件环境：  
 操作系统：win11   
 编译器：IDLE 3.7  
+
+# 核心代码：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project6_1.png)  
+
+# 运行示例：  
