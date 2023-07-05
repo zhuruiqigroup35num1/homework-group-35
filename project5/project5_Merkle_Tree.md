@@ -17,4 +17,7 @@ Merkle树的特点：
 Alice要证明自己的一笔transaction属于某一区块，需要给出该transcation在某一区块中的序号，然后由叶节点由主链计算回Root节点，并验证Root节点的value  
 ### 不存在性证明：  
 不存在性证明基于交易是排序的，通过对比pre与next确定Merkle根进行存在性证明，并锁定pre和next在Merkle Tree TXID Nodes中的位置，并对相应区块进行不确定性证明  
-![Image_test]()
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project5_4.png)  
+
+# 核心代码：  
+
