@@ -20,4 +20,8 @@ Alice要证明自己的一笔transaction属于某一区块，需要给出该tran
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project5_4.png)  
 
 # 核心代码：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project5_8.png)  
 
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project5_9.png)  
+# 运行示例：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project5_7.png)  
