@@ -18,4 +18,4 @@
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project4_2.png)  
 # 运行示例（以GROUP为例进行哈希运算）  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project4_3.png)  
-共计0.0668s
+共计0.068s
