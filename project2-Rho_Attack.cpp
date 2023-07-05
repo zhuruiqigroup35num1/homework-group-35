@@ -1,9 +1,11 @@
-﻿#include<time.h>
+#include"mysm3.h"  
+//SM3实现相关的头文件  
+#include<time.h>
 #include<stdlib.h>
 #include<math.h>
 #include<string>
 #include<iostream>
-#include"SM3_Implement.h"
+
 using namespace std;
 
 const int MAX_BITS = SM3_OUTLEN * 8;
