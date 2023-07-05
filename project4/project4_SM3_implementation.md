@@ -11,3 +11,6 @@
 5.更新寄存器值 更新8个寄存器的值，将当前循环的寄存器的值赋给下一个循环。  
 6.循环处理 对每个消息分组进行循环处理，直到处理完所有消息分组。  
 7.输出结果 将最终的8个寄存器的值按顺序连接起来，得到最终的哈希结果。  
+### 效果图示意：
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project4_1.png)  
+
