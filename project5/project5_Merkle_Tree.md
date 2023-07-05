@@ -18,7 +18,13 @@ Alice要证明自己的一笔transaction属于某一区块，需要给出该tran
 ### 不存在性证明：  
 不存在性证明基于交易是排序的，通过对比pre与next确定Merkle根进行存在性证明，并锁定pre和next在Merkle Tree TXID Nodes中的位置，并对相应区块进行不确定性证明  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project5_4.png)  
-
+# 运行环境：  
+硬件环境：  
+处理器：AMD Ryzen 7 5800H with Radeon Graphics   
+CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)  
+软件环境：  
+操作系统：win11   
+编译器：IDLE 3.7  
 # 核心代码：  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project5_8.png)  
 
