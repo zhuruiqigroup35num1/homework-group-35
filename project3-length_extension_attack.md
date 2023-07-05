@@ -21,3 +21,4 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 # 核心代码实现：  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project_3.png)  
 # 运行结果示例：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project3_2.png)
