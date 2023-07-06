@@ -20,6 +20,7 @@ d.轮密钥加（AddRoundKey）：将每个字节与该轮使用的密钥相关�
 密文输出：将最后一轮得到的密文输出  
 
 # 注：此project基于Keil仿真环境  
+没有学明白怎么用ARM指令集写，只能给出C语言的代码  
 附带了C源代码和Keil上的代码  
 # 核心代码：  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project8_1.png)  
