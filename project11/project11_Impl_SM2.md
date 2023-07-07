@@ -1,6 +1,7 @@
 # Impl SM2 with RFC6979  
 # 背景引入：  
 ## RFC6979文档：www.gmbz.org.cn/main/viewfile/20180108015515787986.html  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project11_1.jpg)  
 ## SM2算法：  
 SM2算法是我国自主研发的一种椭圆曲线公钥密码算法，也是我国首个自主拥有完全自主知识产权的公钥密码算法。SM2算法被广泛应用于数字签名、密钥交换等安全领域，是我国在国际密码领域首次发表的公钥密码算法标准。  
 SM2算法基于椭圆曲线密码体制（ECC），使用国家密码管理局公布的SM2曲线作为基础曲线，具有很高的安全性和效率。SM2算法可以实现数字签名、密钥协商和密钥交换等功能，还可以应用于密码卡、智能卡等硬件设备。  
@@ -24,3 +25,6 @@ SM2算法基于椭圆曲线密码体制（ECC），使用国家密码管理局�
 （3）计算出临时公钥  
 （4）计算出签名值  
 
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project11_2.png)  
+
+# 核心代码：  
