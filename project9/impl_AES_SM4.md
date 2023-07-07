@@ -35,6 +35,8 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project9_4.png)  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project9_5.png)  
 
+## SM4：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project9_8.jpg)  
 
 # 运行示例：  
 ## AES：  
@@ -42,3 +44,7 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project9_6.png)  
 ### 时间测试：  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project9_7.png)  
+
+## SM4:  
+### 加密学号（包含时间测试）：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project9_9.jpg)  
