@@ -27,4 +27,17 @@ SM2算法基于椭圆曲线密码体制（ECC），使用国家密码管理局�
 
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project11_2.png)  
 
+# 运行环境：   
+硬件环境：  
+处理器：AMD Ryzen 7 5800H with Radeon Graphics   
+CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)  
+软件环境：  
+操作系统：win11   
+编译器：IDLE 3.8  
+
 # 核心代码：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project11_4.png)  
+
+# 运行示例：  
+## 以加密学号为例：  
+!{Image_test}(https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project11_5.png)  
