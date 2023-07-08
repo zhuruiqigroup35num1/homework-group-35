@@ -40,4 +40,4 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 
 # 运行示例：  
 ## 以加密学号为例：  
-!{Image_test}(https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project11_5.png)  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project11_5.png)  
