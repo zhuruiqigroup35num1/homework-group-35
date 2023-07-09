@@ -1,9 +1,5 @@
-
 import hashlib
 import random
-
-
-
 p = 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffefffffc2f
 a = 0
 b = 7
@@ -27,15 +23,14 @@ def inverse_mod(a, p):
     return (old_s%p+p)%p
 
 def On_curve(point):
-    #无穷远点
     if point is None:
         return True
     else:
         x,y = point
         return (y*y-x*x*x-a*x-b)%p == 0
 
-
 def point_add(point1,point2):
+    #椭圆曲线上点的加法  
     assert On_curve(point1) and On_curve(point2)
     if point1 == None:
         return point2
