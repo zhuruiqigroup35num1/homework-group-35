@@ -14,11 +14,11 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 
 # 核心代码：  
 ## 椭圆曲线上的点群加法：  
-![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project13_3.png)  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project13_2.png)  
 ## ECMH结构：  
-![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project13_4.png)  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project13_3.png)  
 ## 测试数据：  
-![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project13_5.png)  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project13_4.png)  
 
 # 运行示例：  
-![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project13_2.png)  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project13_5.png)  
