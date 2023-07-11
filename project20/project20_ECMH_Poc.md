@@ -9,7 +9,7 @@ ECMH PoC 指的是 ECMH (Ethereum Crosslink Implementation for Multiple Heteroge
 在 PoC 过程中，通常会进行模拟环境测试，以证明 ECMH 能够实现连接和交互多个异构区块链的功能  
 这意味着，通过 ECMH 技术，不同的区块链系统可以相互协作，完成交易和数据共享，从而促进整个区块链生态系统的发展  
 
-![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project20_1.png)
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project20_2.png)
 
 # 运行环境：  
 硬件环境：  
@@ -21,7 +21,7 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 IDLE 3.8
 
 # 核心代码：  
-![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project20_2.png)  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project20_1.png)  
 
 # 运行示例：  
 ## 以处理学号为例：  
