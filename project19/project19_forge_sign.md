@@ -11,7 +11,7 @@ ECDSA (Elliptic Curve Digital Signature Algorithm) 是一种基于椭圆曲线�
 3.防止侧信道攻击：对实现 ECDSA 签名算法的设备进行物理安全措施，如防止侧信道攻击的硬件设计、物理隔离等  
 4.定期更新密钥：为了降低私钥泄露风险，定期更新签名密钥是一个常用的做法  
 ## 本问题中利用一个已知的消息签名，伪造一个消息签名：  
-![Image_test]()  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project19_1.png)  
 
 # 运行环境：  
 硬件环境：  
@@ -22,3 +22,10 @@ CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)
 编译器：IDLE 3.8  
 
 # 核心代码：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project19_2.png)  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project19_3.png)  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project19_4.png)  
+
+# 运行示例：  
+## 以学号为例：  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project19_5.png)  
