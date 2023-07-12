@@ -1,8 +1,6 @@
 import hashlib
 import random
 
-
-
 p = 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffefffffc2f
 a = 0
 b = 7
