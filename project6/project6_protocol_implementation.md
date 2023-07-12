@@ -1,4 +1,4 @@
-# impl this protocol with actual network communication  
+# Impl this Protocol with Actual Network Communication  
 # 背景引入：  
 "Range Proofs from Hash Functions" 是一种加密学术语汇，指的是使用哈希函数构建范围证明的技术。范围证明是指，对于一个公钥和一个承诺（通常是一种加密方式，用于标识某些内容的哈希值），证明某个值是否落在指定区间内，同时又不暴露任何有关该值的信息。  
 范围证明（Range Proof）是一种加密技术，用于证明某个值是否落在指定区间内，同时又不暴露任何有关该值的信息。例如，在加密货币领域中，范围证明技术可用于证明一个交易的输出值是否落在指定区间内，以确保交易不会超出指定范围。但是，由于范围证明需要证明是否在特定范围内，因此需要更多的证明信息，这会增加交易的复杂性和计算成本。  
