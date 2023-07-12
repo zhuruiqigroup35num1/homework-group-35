@@ -30,7 +30,7 @@ def KDF(z,klen):
     ct=1
     k=''
     for _ in range(math.ceil(klen/256)):
-        k=k+sm3.sm3_hash(hex(int(z+'{:032b}'.format(ct),2))[2:])
+        k=k+sm3.sm3_hash([hex(int(z+'{:032b}'.format(ct),2))[2:]])
         ct=ct+1
     k='0'*((256-(len(bin(int(k,16))[2:])%256))%256)+bin(int(k,16))[2:]
     return k[:klen]
@@ -105,3 +105,4 @@ if __name__ == "__main__":
         print(Msg==m1)
     else:
         print(False)
+
