@@ -19,7 +19,7 @@ Range Proofs:
 CPU： 3.20 GHz内存：16.0 GB (15.9 GB 可用)  
 软件环境：  
 操作系统：win11   
-编译器：IDLE 3.7  
+编译器：IDLE 3.8  
 
 # 核心代码：  
 ![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project6_1.png)  
