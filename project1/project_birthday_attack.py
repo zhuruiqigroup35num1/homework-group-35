@@ -1,4 +1,4 @@
-from gmssl import sm4,sm3
+from gmssl import sm3
 #用国密库实现SM3
 import time
 #寻求碰撞
