@@ -7,7 +7,7 @@ Merkle Patricia Trie是一种基于Merkle树和Patricia树的数据结构，常�
 该数据结构将原始数据以字节的形式存储在树结构中的叶子节点上，同时使用哈希值来连接叶子节点和非叶子节点。由于哈希是一个固定长度的值，因此可以使用它来验证存储在叶子节点上的数据是否正确，从而保证了数据的完整性和安全性  
 Merkle Patricia Trie中的每个节点都有一个前缀和后缀，前缀是其父节点的哈希，后缀是该节点本身存储的数据。这种结构让节点之间可以共用相同的前缀和哈希值，从而大大减少了存储空间的需求  
 此外，由于哈希值的唯一性，Merkle Patricia Trie可以保证数据的防篡改性，使得区块链的数据安全可靠  
-![Image_test]()  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project22_1.png)  
 ## 内部节点的特点与关系：  
 ### 内部节点通常是树结构中的非叶子节点，也称为父节点。其特点主要包括：  
 1.内部节点有子节点：内部节点至少有一个子节点，且子节点可以是叶子节点或其他内部节点  
@@ -25,7 +25,7 @@ Merkle Patricia Trie中的每个节点都有一个前缀和后缀，前缀是其
 绿色的扩展节点Extension Node，其中共同前缀shared nibble是a7，采用了压缩前缀树的方式进行了合并  
 蓝色的分支节点Branch Node，其中有表示十六进制的字符和一个value，最后的value是fullnode的数据部分  
 紫色的叶子节点leadfNode，用来存储具体的数据，它也是对路径进行了压缩  
-![Image_test]()  
+![Image_test](https://github.com/zhuruiqigroup35num1/homework-group-35/blob/main/image/project22_2.jpg)  
 ## MPT简要创建过程：  
 1.创建空的Merkle Patricia Trie树，同时创建一个空的根节点  
 2.将需要存储的数据按照某种方式进行编码，并将编码后的数据作为键值插入到树中  
