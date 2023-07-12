@@ -8,7 +8,7 @@ def naive_birthday_attack(bitnumber:int):
     Hashtable = [0]*2**bitnumber
     #存储一侧，计算另一侧从而寻找碰撞
     for i in range(space):
-        res = int(sm3.sm3_hash(str(i))[0:int(bitnumber/4)],16)
+        res = int(sm3.sm3_hash([i])[0:int(bitnumber/4)],16)
         #加密计算另一侧，尝试碰撞
         if Hashtable[res] == 0:
             Hashtable[res] = i
@@ -17,9 +17,11 @@ def naive_birthday_attack(bitnumber:int):
             return True
 
 if __name__ == '__main__':
-    bitnumber = 20
+    print('\t')
+    bitnumber = 26
     start_time = time.time()
     print(naive_birthday_attack(bitnumber))
     end_time = time.time()
-    print("\n")
-    print("caculate time is",(end_time-start_time))
+    print("总时长： ",(end_time-start_time))
+    print('\t')
+
